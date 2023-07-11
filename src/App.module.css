@@ -1,0 +1,16 @@
+.app {
+  height: 100vh;
+  background-color: #282c34;
+}
+
+.appHeader {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+  padding-bottom: 1em;
+  font-size: 2em;
+  font-weight: 700;
+  color: white;
+}
+
+
