@@ -29,8 +29,8 @@ export default function InputForm () {
         <form>
           <input type="email" placeholder="Please Enter Your E-mail." className={styles.formInput} onChange={e => {setEmail(e.target.value)}} />
         </form>
-        <button className={styles.summitBtn} onClick={handleClick}>
-          Summit
+        <button className={styles.submitBtn} onClick={handleClick}>
+          Submit
         </button>
       </div>
       <div className={styles.output}>

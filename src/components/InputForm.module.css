@@ -28,7 +28,7 @@
   outline: none;
 }
 
-.summitBtn {
+.submitBtn {
   display: block;
   width: 100px;
   height: 40px;
@@ -41,7 +41,7 @@
   color: white;
 }
 
-.summitBtn:hover {
+.submitBtn:hover {
   cursor: pointer;
   color: #f52b75;
   background-color: #fff;
